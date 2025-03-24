@@ -1,1 +1,3 @@
+new line, form local, and moved
+
 this is second file
